@@ -1,12 +1,12 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'app-home-view',
-  standalone: true,
-  imports: [],
+  selector: 'home-view',
   templateUrl: './home-view.component.html',
-  styleUrl: './home-view.component.css'
+  styleUrls: ['./home-view.component.css']
 })
 export class HomeViewComponent {
-
+  @Input() nombre: string = '';
+  @Input() descripcion: string = '';
+  @Input() imagen: string = '';
 }
