@@ -3,9 +3,9 @@
     <div class="container">
       <p class="text-center mb-0">© 2024 CarHomes. Todos los derechos reservados.</p>
       <p class="text-center mb-0">
-        <a href="https://twitter.com/vuejs" target="_blank" rel="noopener" class="text-white">Síguenos en Twitter</a> |
-        <a href="https://github.com/vuejs" target="_blank" rel="noopener" class="text-white">GitHub</a> |
-        <a href="https://www.vuejs.org" target="_blank" rel="noopener" class="text-white">Web Oficial</a>
+        <a href="https://twitter.com/vuejs" target="_blank" rel="noopener" class="text-white">fghdfhdhdh</a> |
+        <a href="https://github.com/vuejs" target="_blank" rel="noopener" class="text-white">hdfhdghdgh</a> |
+        <a href="https://www.vuejs.org" target="_blank" rel="noopener" class="text-white">dghdghdghdgh</a>
       </p>
     </div>
   </footer>
